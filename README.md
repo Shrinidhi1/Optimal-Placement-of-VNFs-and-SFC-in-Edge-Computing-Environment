@@ -1,4 +1,4 @@
-# Optimal Placement of VNFs in MECs and SFC in Multi-Access Edge Computing Environment
+# Optimal Placement of VNFs and Service Function Chaining in Multi-Access Edge Computing Environment
 ## 1. Introduction
 Mobile Edge Computing (MEC) and Network Function Virtualization (NFV) are emerging as key technologies to meet the demands of an expanding number of users in 5G. In NFV, the placement of Virtual Network Functions (VNFs) is a crucial decision as it significantly impacts the performance, reliability, and cost of the network. VNF placement and optimization play a vital role in ensuring the efficient and effective operation of NFV-enabled MEC nodes. <br>
 
