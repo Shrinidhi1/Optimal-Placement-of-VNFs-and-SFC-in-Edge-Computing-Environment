@@ -8,7 +8,7 @@ Service Function Chaining (SFC) is a network architecture that facilitates the s
 The primary motivation for NFV-enabled MEC networks is to address the limitations of traditional hardware-based network appliances. It enhances network agility, allowing for the easy introduction of new network services. Service function chains provide a flexible and efficient framework for deploying network functions in a 5G network. SFC enables network operators to deploy network functions in a modular manner, offering a flexible framework for deploying functions in a dynamic and changing network environment. SFC provides a way to automate the setup of virtual network connections to handle different types of traffic flows.
 
 ## 3. Problem Statement
-To design and implement cost-effective chaining of Virtual Network Functions (VNFs) in Multi-access Edge Computing (MEC) environment to create a Service Function Chain (SFC) such that latency constraints of every SFC are met.
+To design and implement cost-effective placement and chaining of Virtual Network Functions (VNFs) in Multi-access Edge Computing (MEC) environment to create a Service Function Chain (SFC) such that latency constraints of every SFC are met.
 
 ## 4. Objectives
 - To place VNFs in MEC servers such that resource constraint of every VNF is met.
